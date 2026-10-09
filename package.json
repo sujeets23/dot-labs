@@ -1,0 +1,19 @@
+{
+  "name": "dot-labs-clone",
+  "version": "1.0.0",
+  "description": "Pixel-perfect clone of Dot Labs Creative Agency website (https://dotlabsupdated.framer.website/)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "dot-labs",
+    "creative-agency",
+    "framer",
+    "motion",
+    "clone"
+  ],
+  "author": "",
+  "license": "ISC"
+}
